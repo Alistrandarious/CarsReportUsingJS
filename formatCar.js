@@ -1,0 +1,1 @@
+export const formatCar = car => `${car.Make} ${car.Model} being sold for £${car.Price}, \nwhen the retail is £${car.RRP}
